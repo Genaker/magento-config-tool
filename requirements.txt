@@ -1,0 +1,3 @@
+tabulate
+sqlalchemy
+mysql-connector-python
